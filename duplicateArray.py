@@ -1,3 +1,5 @@
+# John Nep Arcilla  06/06/2023
+
 arr = [5, 1, 4, 6, 7, 3, 5, 7, 3]
 duplicates = []
 
